@@ -1,0 +1,10 @@
+C:\Users\COVID-19\source\repos\FoleyCommaDelimter\bin\Debug\FoleyCommaDelimter.exe.config
+C:\Users\COVID-19\source\repos\FoleyCommaDelimter\bin\Debug\FoleyCommaDelimter.exe
+C:\Users\COVID-19\source\repos\FoleyCommaDelimter\bin\Debug\FoleyCommaDelimter.pdb
+C:\Users\COVID-19\source\repos\FoleyCommaDelimter\obj\Debug\FoleyCommaDelimter.csprojAssemblyReference.cache
+C:\Users\COVID-19\source\repos\FoleyCommaDelimter\obj\Debug\FoleyCommaDelimter.Foley.resources
+C:\Users\COVID-19\source\repos\FoleyCommaDelimter\obj\Debug\FoleyCommaDelimter.Properties.Resources.resources
+C:\Users\COVID-19\source\repos\FoleyCommaDelimter\obj\Debug\FoleyCommaDelimter.csproj.GenerateResource.cache
+C:\Users\COVID-19\source\repos\FoleyCommaDelimter\obj\Debug\FoleyCommaDelimter.csproj.CoreCompileInputs.cache
+C:\Users\COVID-19\source\repos\FoleyCommaDelimter\obj\Debug\FoleyCommaDelimter.exe
+C:\Users\COVID-19\source\repos\FoleyCommaDelimter\obj\Debug\FoleyCommaDelimter.pdb
